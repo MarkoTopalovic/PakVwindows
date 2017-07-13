@@ -1079,7 +1079,7 @@ C     1,LVG,LGG,LKOJK
 !         WRITE(*,*) "INDMPI",INDMPI
 !         WRITE(*,*) "MPOINT_ID(",IMP,")",MPOINT_ID(IMP)
         
-        
+!dodat test komentar za brisanje        
 !top        
          if (.not.allocated(MP_RESULTS_NIZ)) allocate(MP_RESULTS_NIZ
      1                               (BRKORAKA),STAT=istat)
