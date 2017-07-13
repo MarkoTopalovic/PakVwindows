@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VisualStudioUserFile ProjectCreator="Intel Fortran" Keyword="Console Application" Version="11.0" ProjectIdGuid="{F769B69D-0C81-4B67-B3F9-9F882C239B2B}">
+	<Configurations>
+		<Configuration Name="Debug|Win32" Environment="&quot;c:\Program Files\mpich2\bin\mpiexec -np 2 &quot;"/>
+		<Configuration Name="Release|Win32"/></Configurations></VisualStudioUserFile>
